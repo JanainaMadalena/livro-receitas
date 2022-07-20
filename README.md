@@ -1,3 +1,5 @@
-#Livro receitas
+# Livro receita :woman_cook:
 
-Olá
+Olá Bem-vindos ao meu livro de receita :smile:
+
+* Strogonoff de frango
